@@ -43,7 +43,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Gal Mizrachi** - [GitHub Profile](https://github.com/GalMizrachi)
 - **Maya Lesnik** - [GitHub Profile](https://github.com/mayalesnik)
-
----
-
-אם יש לך שאלות או שינויים, אני כאן לעזור!
