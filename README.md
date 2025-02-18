@@ -33,13 +33,14 @@ The project follows **IoT principles** for real-time environmental monitoring an
 
 ---
 
-## 📄 **License**
+## 🔗 **Project Links**  
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+📌 [Project Presentation](https://presentaHon.com/GalMizrachi_MayaLesnik/IOT_SMART_HOME)  
+📌 [Project Design on Canva](https://www.canva.com/GalMizrachi_MayaLesnik/IOT_SMART_HOME)  
 
 ---
 
-## 👥 **Authors**
+## 👥 **Authors**  
 
-- **Gal Mizrachi** - [GitHub Profile](https://github.com/GalMizrachi)
-- **Maya Lesnik** - [GitHub Profile](https://github.com/mayalesnik)
+- **Gal Mizrachi** - [GitHub Profile](https://github.com/GalMizrachi)  
+- **Maya Lesnik** - [GitHub Profile](https://github.com/mayalesnik)  
