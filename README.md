@@ -35,8 +35,8 @@ The project follows **IoT principles** for real-time environmental monitoring an
 
 ## 🔗 **Project Links**  
 
-📌 [Project Presentation](https://presentaHon.com/GalMizrachi_MayaLesnik/IOT_SMART_HOME)  
-📌 [Project Design on Canva](https://www.canva.com/GalMizrachi_MayaLesnik/IOT_SMART_HOME)  
+📌 [Project Presentation](https://www.youtube.com/watch?v=kY96Prmqh8o)  
+📌 [Project Design on Canva](https://www.canva.com/design/DAGdxlUPqSQ/T0AoYankSs7rAPMulDDP5A/edit?utm_content=DAGdxlUPqSQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ---
 
